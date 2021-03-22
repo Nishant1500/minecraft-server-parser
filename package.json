@@ -1,0 +1,29 @@
+{
+  "name": "minecraft-server-parser",
+  "version": "1.0.0",
+  "description": "A Package To Help Getting Minecraft Servers From A Server.dat File. Used By Bee Launcher",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nishant1500/minecraft-server-parser.git"
+  },
+  "keywords": [
+    "bee-launcher",
+    "minecraft",
+    "minecraft-launcher",
+    "launcher-module",
+    "server"
+  ],
+  "author": "Nishant1500",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Nishant1500/minecraft-server-parser/issues"
+  },
+  "homepage": "https://github.com/Nishant1500/minecraft-server-parser#readme",
+  "dependencies": {
+    "@xmcl/nbt": "^2.0.3"
+  }
+}
